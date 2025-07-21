@@ -1,0 +1,162 @@
+{
+  "main": {
+    "name":"SHUHAN PENG(Shirley)",
+    "description":"Passionate about learning technology and sharing knowledge",
+    "image":"profile~.jpg",
+    "bio":"My name is Shirley, a graduate from QUT, holding an Honor Bachelor's Degree in Computer and Software Systems major.I specialize in Typescript for both frontend and backend development. Actively contributing to open source projects on GitHub, I bring self-motivation and excellent problem-solving skills to every task. With a passion for continuous learning, I approach challenges with humility, making me a versatile and dedicated professional in the ever-evolving field of technology.",
+    "contactmessage":"Thank you for your feedback.",
+    "email": "psh792421453@gmail.com",
+    "phone": "(04) 03511706",
+    "github":"https://github.com/ShP779",
+    "project":"https://github.com/ShP779",
+    "address":{
+      "line1":"Address: 88 Doggett St, Newstead",
+      "line2":"City: Brisbane",
+      "line3":"Country: Australia"
+    },
+    "youtube":{
+      "english": {
+        "name": "David on Cloud",
+        "url": "https://www.youtube.com/channel/UCykMC_fzatQPcbun0VYG3YA"
+      },
+      "chinese": {
+        "name": "澳洲程序员大卫",
+        "url":"https://www.youtube.com/@aus-david"
+      }
+    },
+    "website": "http://cyberlark.com.au",
+    "resumedownload":"./images/Shirley_Peng_Resume.pdf",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/daiwei920",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/CyberlarkCode",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"youtube-chinese",
+        "url":"https://www.youtube.com/channel/UCArZ1Su6EjdiEA0qrx1Pfqg",
+        "className":"fa fa-youtube-square"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com",
+        "className":"fa fa-linkedin-square"
+      },
+      {
+        "name":"toutiao",
+        "url":"https://www.ixigua.com/home/1521358670931997/",
+        "className":"fa fa-weibo"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Technical Skills",
+    "education":[
+      {
+        "school":"QUEENSLAND UNIVERSITY OF TECHNOLOGY",
+        "degree":"Bachelor of Engineering",
+        "graduated":"2020 - 2023",
+        "description":""
+      },
+      {
+        "school":"QUEENSLAND UNIVERSITY OF TECHNOLOGY",
+        "degree":"Diploma Engineering (High Distinction HD)",
+        "graduated":"2019",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Cyberlark Studio",
+        "title":"Backend Developer Internship",
+        "years":"01/2023 - 03/2023",
+        "description":""
+      },
+      {
+        "company":"End of year project, Queensland University of Technology",
+        "title":"Frontend Developer",
+        "years":"03/2022 - 03/2023",
+        "description":""
+      },
+      {
+        "company":"MLS CO",
+        "title":"Frontend Developer Internship",
+        "years":"01/2022 - 03/2022",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Frontend Development (React, JS)",
+        "level":"90%"
+      },
+      {
+        "name":"Backend(C#, ASP.NET, Entity Framework)",
+        "level":"85%"
+      },
+      {
+        "name":"Embeded Software development (C/C++)",
+        "level":"70%"
+      },
+      {
+        "name":"Leadership & Management",
+        "level":"70%"
+      },
+      {
+        "name":"Passion & Eager to learn",
+        "level":"100%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Course",
+        "description": "如何在澳洲找IT工作",
+        "category": "Course",
+        "image":"00.png",
+        "url":"https://course.cyberlark.com.au/courses/it"
+      },
+      {
+        "title":"Project",
+        "description": "Investment Property Calculator",
+        "category": "Project",
+        "image":"04.png",
+        "url":"https://property.cyberlark.com.au/"
+      },
+      {
+        "title":"Video",
+        "description": "How to use Investment Property Calculator",
+        "category": "Video",
+        "image":"01.png",
+        "url":"https://www.youtube.com/watch?v=W5I-eij2q6E"
+      },
+      {
+        "title":"Video",
+        "description":"How I passed the AWS Solutions Architect Professional Certification Exam",
+        "category":"Video",
+        "image":"02.png",
+        "url":"https://www.youtube.com/watch?v=qftrfxGou_E"
+      },
+      {
+        "title":"Video",
+        "description":"Amazon Interview Experience | All things you need to prepare amazon interview",
+        "category": "Video",
+        "image":"03.png",
+        "url":"https://www.youtube.com/watch?v=kg2sJgO3Esc"
+      },
+      {
+        "title":"Video",
+        "description": "如何使用澳洲房产投资计算器",
+        "category": "Video",
+        "image":"01-chinese.png",
+        "url":"https://www.youtube.com/watch?v=03WayI5czhY"
+      }
+    ]
+  }
+}
